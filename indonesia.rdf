@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:owl="http://www.w3.org/owl#"
+xmlns:xsd="http://www.w3.org/2001/xsd#">
+     
+<rdf:Description
+rdf:about="http://www.w3.org/2001/xsd/Presiden ke-1">
+  <xsd:Nama>Ir.Soekarno</xsd:Nama>
+  <xsd:Tanggal_lahir>6 Juni 1901</xsd:Tanggal_lahir>
+  <xsd:Periode>1945-1967</xsd:Periode>
+  <xsd:Asal>Blitar, Jawa Timur</xsd:Asal>
+  <xsd:Pendidikan>Technische Hoogeschool te Bandoeng </xsd:Pendidikan>
+  <xsd:Ibu_negara>Ratna Sari Dewi Soekarno</xsd:Ibu_negara>
+  <xsd:Wafat>21 Juni 1970</xsd:Wafat>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.w3.org/owl/Presiden ke-2">
+  <owl:Nama>Jend. Besar TNI Purn. Haji Muhammad Soeharto</owl:Nama>
+  <owl:Tanggal_lahir>8 Juni 1921</owl:Tanggal_lahir>
+  <owl:Periode>1967-1998</owl:Periode>
+  <owl:Asal>Kemusuk, Yogyakarta</owl:Asal>
+  <owl:Pendidikan>SSKAD, Bandung (1959-1960)</owl:Pendidikan>
+  <owl:Ibu_negara>Fatimah Siti Hartinah Soeharto</owl:Ibu_negara>
+  <owl:Wafat>27 Januari 2008</owl:Wafat>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.w3.org/owl/Presiden ke-3">
+  <owl:Nama>Bacharuddin Jusuf Habibie</owl:Nama>
+  <owl:Tanggal_lahir>25 Juni 1936</owl:Tanggal_lahir>
+  <owl:Periode>1998-1999</owl:Periode>
+  <owl:Asal>Parepare, Sulawesi Selatan</owl:Asal>
+  <owl:Pendidikan>Rhenisch Wesfalische Tehnische Hochscule (RWTH), Aachen, Jerman</owl:Pendidikan>
+  <owl:Ibu_negara>Hasri Ainun Habibie</owl:Ibu_negara>
+  <owl:Wafat>11 September 2019</owl:Wafat>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.w3.org/owl/Presiden ke-4">
+  <owl:Nama>Abdurrahman Wahid</owl:Nama>
+  <owl:Tanggal_lahir>4 Agustus 1940</owl:Tanggal_lahir>
+  <owl:Periode>1999-2001</owl:Periode>
+  <owl:Asal>Denanyar, Jombang, Jawa Timur</owl:Asal>
+  <owl:Pendidikan>Universitas Al Azhar di Kairo, Mesir</owl:Pendidikan>
+  <owl:Ibu_negara>Sinta Nuriyah</owl:Ibu_negara>
+  <owl:Wafat>30 Desember 2009</owl:Wafat>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.w3.org/owl/Presiden ke-5">
+  <owl:Nama>Megawati Soekarnoputri</owl:Nama>
+  <owl:Tanggal_lahir>23 Januari 1947</owl:Tanggal_lahir>
+  <owl:Periode>2001-2004</owl:Periode>
+  <owl:Asal>Yogyakarta</owl:Asal>
+  <owl:Pendidikan>Fakultas Psikologi Universitas Indonesia Jakarta (1970-1972)</owl:Pendidikan>
+  <owl:Bapak_negara>Taufik Kiemas</owl:Bapak_negara>
+  <owl:Wafat> - </owl:Wafat>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.w3.org/owl/Presiden ke-6">
+  <owl:Nama>Jenderal TNI (HOR) (Purn.) Prof. Dr. Dr. (HC). H. Susilo Bambang Yudhoyono, M.A.</owl:Nama>
+  <owl:Tanggal_lahir>9 September 1949</owl:Tanggal_lahir>
+  <owl:Periode>2004-2014</owl:Periode>
+  <owl:Asal>Kabupaten Pacitan, Jawa Timur</owl:Asal>
+  <owl:Pendidikan>Guru Besar Ilmu Ketahanan Nasional dari Universitas Pertahanan Indonesia (Unhan), 2014</owl:Pendidikan>
+  <owl:Ibu_negara>Kristiani Herawati</owl:Ibu_negara>
+  <owl:Wafat> - </owl:Wafat>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.w3.org/owl/Presiden ke-7">
+  <owl:Nama>Ir. H. Joko Widodo</owl:Nama>
+  <owl:Tanggal_lahir>21 Juni 1961</owl:Tanggal_lahir>
+  <owl:Periode>2014-2021</owl:Periode>
+  <owl:Asal>Jalan Pandean, Peneleh, Surabaya</owl:Asal>
+  <owl:Pendidikan>Fakultas Kehutanan Universitas Gajah Mada(UGM), Yogyakarta</owl:Pendidikan>
+  <owl:Ibu_negara>Iriana</owl:Ibu_negara>
+  <owl:Wafat> - </owl:Wafat>
+</rdf:Description>
+
+</rdf:RDF>
