@@ -1,13 +1,17 @@
 <?xml version="1.0"?>
 
-<rdf:RDF
-xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-xmlns:owl="http://www.w3.org/owl#"
-xmlns:foaf="http://xmlns.com/foaf/0.1/"
-xmlns:xsd="http://www.w3.org/2001/xsd#">
+<rdf:RDF  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:owl="http://www.w3.org/2002/07/owl#"
+          xmlns:foaf="http://xmlns.com/foaf/0.1/"
+          xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+    <rdf:Description rdf:about="https://internasional.kompas.com/read/2018/05/30/16403971/biografi-tokoh-dunia-ratu-elizabeth-i-penguasa-inggris-era-keemasan?page=all">
+        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales" />
+        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Roman_Herzog" />
+    </rdf:Description>
+
      
 <rdf:Description
-rdf:about="http://www.w3.org/2001/xsd/Pemimpin">
+rdf:about="https://id.wikipedia.org/wiki/Elizabeth_II_dari_Britania_Raya">
   <xsd:Nama>Ratu Elizabeth Alexandra Mary</xsd:Nama>
   <xsd:Tanggal_lahir>21 April 1926</xsd:Tanggal_lahir>
   <xsd:Berkuasa>6 Februari 1952</xsd:Berkuasa>
@@ -15,18 +19,18 @@ rdf:about="http://www.w3.org/2001/xsd/Pemimpin">
   <xsd:Gelar>Baginda Ratu Elizabeth II (Her Majesty The Queen Elizabeth II)</xsd:Gelar>
   <xsd:Pasangan>Pangeran Philip, Adipati Edinburgh</xsd:Pasangan>
   <xsd:Wangsa>Wangsa Windsor</xsd:Wangsa>
-  <foaf:img>https://id.wikipedia.org/wiki/Elizabeth_II_dari_Britania_Raya#/media/Berkas:Queen_Elizabeth_II_March_2015.jpg</foaf:img>
+  <xsd:img>https://id.wikipedia.org/wiki/Elizabeth_II_dari_Britania_Raya#/media/Berkas:Queen_Elizabeth_II_March_2015.jpg</xsd:img>
 </rdf:Description>
 
 <rdf:Description
-rdf:about="http://www.w3.org/owl/Pemimpin">
-  <owl:Nama>Charles, Pangeran Wales</owl:Nama>
-  <owl:Tanggal_lahir>14 November 1948</owl:Tanggal_lahir>
-  <owl:Berkuasa>26 Juli 1958</owl:Berkuasa>
-  <owl:Asal>Istana Buckingham, London</owl:Asal>
-  <owl:Gelar>Adipati Cornwall</owl:Gelar>
-  <owl:Pasangan>Diana Frances Spencer</owl:Pasangan>
-  <owl:Wangsa>Wangsa Windsor</owl:Wangsa>
-  <foaf:img>https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales#/media/Berkas:2019_Reuni%C3%A3o_Bilateral_com_o_Pr%C3%ADncipe_Charles_-_48948389972_(cropped).jpg</foaf:img>
+rdf:about="https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales">
+  <xsd:Nama>Charles, Pangeran Wales</xsd:Nama>
+  <xsd:Tanggal_lahir>14 November 1948</xsd:Tanggal_lahir>
+  <xsd:Berkuasa>26 Juli 1958</xsd:Berkuasa>
+  <xsd:Asal>Istana Buckingham, London</xsd:Asal>
+  <xsd:Gelar>Adipati Cornwall</xsd:Gelar>
+  <xsd:Pasangan>Diana Frances Spencer</xsd:Pasangan>
+  <xsd:Wangsa>Wangsa Windsor</xsd:Wangsa>
+  <xsd:img>https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales#/media/Berkas:2019_Reuni%C3%A3o_Bilateral_com_o_Pr%C3%ADncipe_Charles_-_48948389972_(cropped).jpg</xsd:img>
 </rdf:Description>
 </rdf:RDF>
