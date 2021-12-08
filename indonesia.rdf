@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 
 <rdf:RDF  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-          xmlns:owl="http://www.w3.org/2002/07/owl#"
+          xmlns:owl="	http://www.w3.org/2002/07/owl#"
           xmlns:foaf="http://xmlns.com/foaf/0.1/"
           xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia">
-        <xsd:know rdf:resource="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=1&presiden=sukarno" />
-        <xsd:know rdf:resource="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=2&presiden=suharto" />
-        <xsd:know rdf:resource="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=4&presiden=habibie" />
-        <xsd:know rdf:resource="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=3&presiden=gusdur" />
-        <xsd:know rdf:resource="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=5&presiden=megawati" />
-        <xsd:know rdf:resource="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=6&presiden=sby" />
+        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Soekarno" />
+        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Soeharto" />
+        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/B._J._Habibie" />
+        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Abdurrahman_Wahid" />
+        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Megawati_Soekarnoputri" />
+        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Susilo_Bambang_Yudhoyono" />
         <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Joko_Widodo" />
     </rdf:Description>
      
 <rdf:Description
-rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=1&presiden=sukarno">
+rdf:about="https://id.wikipedia.org/wiki/Soekarno">
   <xsd:Nama>Ir.Soekarno</xsd:Nama>
   <xsd:Tanggal_lahir>6 Juni 1901</xsd:Tanggal_lahir>
   <xsd:Periode>1945-1967</xsd:Periode>
@@ -27,7 +27,7 @@ rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&pr
 </rdf:Description>
 
 <rdf:Description
-rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=2&presiden=suharto">
+rdf:about="https://id.wikipedia.org/wiki/Soeharto">
   <xsd:Nama>Jend. Besar TNI Purn. Haji Muhammad Soeharto</xsd:Nama>
   <xsd:Tanggal_lahir>8 Juni 1921</xsd:Tanggal_lahir>
   <xsd:Periode>1967-1998</xsd:Periode>
@@ -39,7 +39,7 @@ rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&pr
 </rdf:Description>
 
 <rdf:Description
-rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=4&presiden=habibie">
+rdf:about="https://id.wikipedia.org/wiki/B._J._Habibie">
   <xsd:Nama>Bacharuddin Jusuf Habibie</xsd:Nama>
   <xsd:Tanggal_lahir>25 Juni 1936</xsd:Tanggal_lahir>
   <xsd:Periode>1998-1999</xsd:Periode>
@@ -51,7 +51,7 @@ rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&pr
 </rdf:Description>
 
 <rdf:Description
-rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=3&presiden=gusdur">
+rdf:about="https://id.wikipedia.org/wiki/Abdurrahman_Wahid">
   <xsd:Nama>Abdurrahman Wahid</xsd:Nama>
   <xsd:Tanggal_lahir>4 Agustus 1940</xsd:Tanggal_lahir>
   <xsd:Periode>1999-2001</xsd:Periode>
@@ -63,7 +63,7 @@ rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&pr
 </rdf:Description>
 
 <rdf:Description
-rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=5&presiden=megawati">
+rdf:about="https://id.wikipedia.org/wiki/Megawati_Soekarnoputri">
   <xsd:Nama>Megawati Soekarnoputri</xsd:Nama>
   <xsd:Tanggal_lahir>23 Januari 1947</xsd:Tanggal_lahir>
   <xsd:Periode>2001-2004</xsd:Periode>
@@ -75,7 +75,7 @@ rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&pr
 </rdf:Description>
 
 <rdf:Description
-rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=6&presiden=sby">
+rdf:about="https://id.wikipedia.org/wiki/Susilo_Bambang_Yudhoyono">
   <xsd:Nama>Jenderal TNI (HOR) (Purn.) Prof. Dr. Dr. (HC). H. Susilo Bambang Yudhoyono, M.A.</xsd:Nama>
   <xsd:Tanggal_lahir>9 September 1949</xsd:Tanggal_lahir>
   <xsd:Periode>2004-2014</xsd:Periode>
