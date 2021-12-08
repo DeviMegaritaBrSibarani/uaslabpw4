@@ -5,8 +5,8 @@
           xmlns:foaf="http://xmlns.com/foaf/0.1/"
           xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
     <rdf:Description rdf:about="https://internasional.kompas.com/read/2018/05/30/16403971/biografi-tokoh-dunia-ratu-elizabeth-i-penguasa-inggris-era-keemasan?page=all">
+        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Elizabeth_II_dari_Britania_Raya" />
         <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales" />
-        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Roman_Herzog" />
     </rdf:Description>
 
      
