@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <rdf:RDF  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-          xmlns:owl="	http://www.w3.org/2002/07/owl#"
+          xmlns:owl="http://www.w3.org/2002/07/owl#"
           xmlns:foaf="http://xmlns.com/foaf/0.1/"
           xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia">
@@ -23,79 +23,79 @@ rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&pr
   <xsd:Pendidikan>Technische Hoogeschool te Bandoeng </xsd:Pendidikan>
   <xsd:Ibu_negara>Ratna Sari Dewi Soekarno</xsd:Ibu_negara>
   <xsd:Wafat>21 Juni 1970</xsd:Wafat>
-  <xsd:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:Presiden_Sukarno.jpg</foaf:img>
+  <xsd:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:Presiden_Sukarno.jpg</xsd:img>
 </rdf:Description>
 
 <rdf:Description
 rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=2&presiden=suharto">
-  <xsd:Nama>Jend. Besar TNI Purn. Haji Muhammad Soeharto</owl:Nama>
-  <xsd:Tanggal_lahir>8 Juni 1921</owl:Tanggal_lahir>
-  <xsd:Periode>1967-1998</owl:Periode>
-  <xsd:Asal>Kemusuk, Yogyakarta</owl:Asal>
-  <xsd:Pendidikan>SSKAD, Bandung (1959-1960)</owl:Pendidikan>
-  <xsd:Ibu_negara>Fatimah Siti Hartinah Soeharto</owl:Ibu_negara>
-  <xsd:Wafat>27 Januari 2008</owl:Wafat>
-  <xsd:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:President_Suharto,_1993.jpg</foaf:img>
+  <xsd:Nama>Jend. Besar TNI Purn. Haji Muhammad Soeharto</xsd:Nama>
+  <xsd:Tanggal_lahir>8 Juni 1921</xsd:Tanggal_lahir>
+  <xsd:Periode>1967-1998</xsd:Periode>
+  <xsd:Asal>Kemusuk, Yogyakarta</xsd:Asal>
+  <xsd:Pendidikan>SSKAD, Bandung (1959-1960)</xsd:Pendidikan>
+  <xsd:Ibu_negara>Fatimah Siti Hartinah Soeharto</xsd:Ibu_negara>
+  <xsd:Wafat>27 Januari 2008</xsd:Wafat>
+  <xsd:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:President_Suharto,_1993.jpg</xsd:img>
 </rdf:Description>
 
 <rdf:Description
 rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=4&presiden=habibie">
-  <xsd:Nama>Bacharuddin Jusuf Habibie</owl:Nama>
-  <xsd:Tanggal_lahir>25 Juni 1936</owl:Tanggal_lahir>
-  <xsd:Periode>1998-1999</owl:Periode>
-  <xsd:Asal>Parepare, Sulawesi Selatan</owl:Asal>
-  <xsd:Pendidikan>Rhenisch Wesfalische Tehnische Hochscule (RWTH), Aachen, Jerman</owl:Pendidikan>
-  <xsd:Ibu_negara>Hasri Ainun Habibie</owl:Ibu_negara>
-  <xsd:Wafat>11 September 2019</owl:Wafat>
-  <xsd:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:Foto_Presiden_Habibie_1998.jpg</foaf:img>
+  <xsd:Nama>Bacharuddin Jusuf Habibie</xsd:Nama>
+  <xsd:Tanggal_lahir>25 Juni 1936</xsd:Tanggal_lahir>
+  <xsd:Periode>1998-1999</xsd:Periode>
+  <xsd:Asal>Parepare, Sulawesi Selatan</xsd:Asal>
+  <xsd:Pendidikan>Rhenisch Wesfalische Tehnische Hochscule (RWTH), Aachen, Jerman</xsd:Pendidikan>
+  <xsd:Ibu_negara>Hasri Ainun Habibie</xsd:Ibu_negara>
+  <xsd:Wafat>11 September 2019</xsd:Wafat>
+  <xsd:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:Foto_Presiden_Habibie_1998.jpg</xsd:img>
 </rdf:Description>
 
 <rdf:Description
 rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=3&presiden=gusdur">
-  <xsd:Nama>Abdurrahman Wahid</owl:Nama>
-  <xsd:Tanggal_lahir>4 Agustus 1940</owl:Tanggal_lahir>
-  <xsd:Periode>1999-2001</owl:Periode>
-  <xsd:Asal>Denanyar, Jombang, Jawa Timur</owl:Asal>
-  <xsd:Pendidikan>Universitas Al Azhar di Kairo, Mesir</owl:Pendidikan>
-  <xsd:Ibu_negara>Sinta Nuriyah</owl:Ibu_negara>
-  <xsd:Wafat>30 Desember 2009</owl:Wafat>
-  <xsd:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:Gusdur.jpg</foaf:img>
+  <xsd:Nama>Abdurrahman Wahid</xsd:Nama>
+  <xsd:Tanggal_lahir>4 Agustus 1940</xsd:Tanggal_lahir>
+  <xsd:Periode>1999-2001</xsd:Periode>
+  <xsd:Asal>Denanyar, Jombang, Jawa Timur</xsd:Asal>
+  <xsd:Pendidikan>Universitas Al Azhar di Kairo, Mesir</xsd:Pendidikan>
+  <xsd:Ibu_negara>Sinta Nuriyah</xsd:Ibu_negara>
+  <xsd:Wafat>30 Desember 2009</xsd:Wafat>
+  <xsd:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:Gusdur.jpg</xsd:img>
 </rdf:Description>
 
 <rdf:Description
 rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=5&presiden=megawati">
-  <xsd:Nama>Megawati Soekarnoputri</owl:Nama>
-  <xsd:Tanggal_lahir>23 Januari 1947</owl:Tanggal_lahir>
-  <xsd:Periode>2001-2004</owl:Periode>
-  <xsd:Asal>Yogyakarta</owl:Asal>
-  <xsd:Pendidikan>Fakultas Psikologi Universitas Indonesia Jakarta (1970-1972)</owl:Pendidikan>
-  <xsd:Bapak_negara>Taufik Kiemas</owl:Bapak_negara>
-  <xsd:Wafat> - </owl:Wafat>
-  <xsd:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:President_Megawati_Sukarnoputri_-_Indonesia.jpg</foaf:img>
+  <xsd:Nama>Megawati Soekarnoputri</xsd:Nama>
+  <xsd:Tanggal_lahir>23 Januari 1947</xsd:Tanggal_lahir>
+  <xsd:Periode>2001-2004</xsd:Periode>
+  <xsd:Asal>Yogyakarta</xsd:Asal>
+  <xsd:Pendidikan>Fakultas Psikologi Universitas Indonesia Jakarta (1970-1972)</xsd:Pendidikan>
+  <xsd:Bapak_negara>Taufik Kiemas</xsd:Bapak_negara>
+  <xsd:Wafat> - </xsd:Wafat>
+  <xsd:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:President_Megawati_Sukarnoputri_-_Indonesia.jpg</xsd:img>
 </rdf:Description>
 
 <rdf:Description
 rdf:about="https://kepustakaan-presiden.perpusnas.go.id/biography/?box=detail&presiden_id=6&presiden=sby">
-  <xsd:Nama>Jenderal TNI (HOR) (Purn.) Prof. Dr. Dr. (HC). H. Susilo Bambang Yudhoyono, M.A.</owl:Nama>
-  <xsd:Tanggal_lahir>9 September 1949</owl:Tanggal_lahir>
-  <xsd:Periode>2004-2014</owl:Periode>
-  <xsd:Asal>Kabupaten Pacitan, Jawa Timur</owl:Asal>
-  <xsd:Pendidikan>Guru Besar Ilmu Ketahanan Nasional dari Universitas Pertahanan Indonesia (Unhan), 2014</owl:Pendidikan>
-  <xsd:Ibu_negara>Kristiani Herawati</owl:Ibu_negara>
-  <xsd:Wafat> - </owl:Wafat>
-  <xsd:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:Presiden_Susilo_Bambang_Yudhoyono.png</foaf:img>
+  <xsd:Nama>Jenderal TNI (HOR) (Purn.) Prof. Dr. Dr. (HC). H. Susilo Bambang Yudhoyono, M.A.</xsd:Nama>
+  <xsd:Tanggal_lahir>9 September 1949</xsd:Tanggal_lahir>
+  <xsd:Periode>2004-2014</xsd:Periode>
+  <xsd:Asal>Kabupaten Pacitan, Jawa Timur</xsd:Asal>
+  <xsd:Pendidikan>Guru Besar Ilmu Ketahanan Nasional dari Universitas Pertahanan Indonesia (Unhan), 2014</xsd:Pendidikan>
+  <xsd:Ibu_negara>Kristiani Herawati</xsd:Ibu_negara>
+  <xsd:Wafat> - </xsd:Wafat>
+  <xsd:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:Presiden_Susilo_Bambang_Yudhoyono.png</xsd:img>
 </rdf:Description>
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Joko_Widodo">
-  <xsd:Nama>Ir. H. Joko Widodo</owl:Nama>
-  <xsd:Tanggal_lahir>21 Juni 1961</owl:Tanggal_lahir>
-  <xsd:Periode>2014-2021</owl:Periode>
-  <xsd:Asal>Jalan Pandean, Peneleh, Surabaya</owl:Asal>
-  <xsd:Pendidikan>Fakultas Kehutanan Universitas Gajah Mada(UGM), Yogyakarta</owl:Pendidikan>
-  <xsd:Ibu_negara>Iriana</owl:Ibu_negara>
-  <xsd:Wafat> - </owl:Wafat>
-  <xsd:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:Joko_Widodo_2019_official_portrait.jpg</foaf:img>
+  <xsd:Nama>Ir. H. Joko Widodo</xsd:Nama>
+  <xsd:Tanggal_lahir>21 Juni 1961</xsd:Tanggal_lahir>
+  <xsd:Periode>2014-2021</xsd:Periode>
+  <xsd:Asal>Jalan Pandean, Peneleh, Surabaya</xsd:Asal>
+  <xsd:Pendidikan>Fakultas Kehutanan Universitas Gajah Mada(UGM), Yogyakarta</xsd:Pendidikan>
+  <xsd:Ibu_negara>Iriana</xsd:Ibu_negara>
+  <xsd:Wafat> - </xsd:Wafat>
+  <xsd:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:Joko_Widodo_2019_official_portrait.jpg</xsd:img>
 </rdf:Description>
 
 </rdf:RDF>
