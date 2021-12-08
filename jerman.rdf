@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:owl="http://www.w3.org/owl#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:xsd="http://www.w3.org/2001/xsd#">
+     
+<rdf:Description
+rdf:about="http://www.w3.org/2001/xsd/Presiden Penyatuan ke-1">
+  <xsd:Nama>Dr. Richard Karl Freiherr von Weizsäcke</xsd:Nama>
+  <xsd:Tanggal_lahir>15 April 1920</xsd:Tanggal_lahir>
+  <xsd:Periode>1984-1994</xsd:Periode>
+  <xsd:Asal>Stuttgart, Jerman.</xsd:Asal>
+  <xsd:Partai>CDU</xsd:Partai>
+  <xsd:Ibu_negara>Marianne Freifrau (Baroness) von Weizsäcker</xsd:Ibu_negara>
+  <xsd:Wafat>31 Januari 2015</xsd:Wafat>
+  <foaf:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Richard_von_Weizs%C3%A4cker.jpg</foaf:img>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.w3.org/owl/Presiden Penyatuan ke-2">
+  <owl:Nama>Roman Herzog</owl:Nama>
+  <owl:Tanggal_lahir> 5 April 1934</owl:Tanggal_lahir>
+  <owl:Periode>1994-1999</owl:Periode>
+  <owl:Asal>Landshut, Jerman</owl:Asal>
+  <owl:Partai>CDU</owl:Partai>
+  <owl:Ibu_negara>Christiane Krauß (menikah 1959-2000)</owl:Ibu_negara>
+  <owl:Wafat>10 january 2017</owl:Wafat>
+  <foaf:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Roman_Herzog.jpg</foaf:img>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.w3.org/owl/Presiden Penyatuan ke-3">
+  <owl:Nama>Johannes Rau</owl:Nama>
+  <owl:Tanggal_lahir>16 Januari 1931</owl:Tanggal_lahir>
+  <owl:Periode>1999-2004</owl:Periode>
+  <owl:Asal>Wuppertal, Jerman</owl:Asal>
+  <owl:Partai>SPD</owl:Partai>
+  <owl:Ibu_negara>Christina Rau</owl:Ibu_negara>
+  <owl:Wafat>27 Januari 2006</owl:Wafat>
+  <foaf:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Johannes_rau_2004-05-16_berlin_ausschnitt.jpg</foaf:img>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.w3.org/owl/Presiden Penyatuan ke-4">
+  <owl:Nama>Horst Köhler</owl:Nama>
+  <owl:Tanggal_lahir>22 Februari 1943</owl:Tanggal_lahir>
+  <owl:Periode>2004-2010</owl:Periode>
+  <owl:Asal>Heidenstein, Polandia</owl:Asal>
+  <owl:Partai>CDU</owl:Partai>
+  <owl:Ibu_negara>Eva Bohnet</owl:Ibu_negara>
+  <owl:Wafat> - </owl:Wafat>
+  <foaf:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Horst_K%C3%B6hler.jpg</foaf:img>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.w3.org/owl/Presiden Penyatuan ke-5">
+  <owl:Nama>Christian Wilhelm Walter Wulff</owl:Nama>
+  <owl:Tanggal_lahir>19 Juni 1959</owl:Tanggal_lahir>
+  <owl:Periode>2010-1012</owl:Periode>
+  <owl:Asal>Osnabrück, Jerman Barat</owl:Asal>
+  <owl:Partai>CDU</owl:Partai>
+  <owl:Ibu_negara>Bettina Korner</owl:Ibu_negara>
+  <owl:Wafat> - </owl:Wafat>
+  <foaf:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Landtag_Niedersachsen_DSCF7769.JPG</foaf:img>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.w3.org/owl/Presiden Penyatuan ke-6">
+  <owl:Nama>Joachim Gauck</owl:Nama>
+  <owl:Tanggal_lahir>24 Januari 1940</owl:Tanggal_lahir>
+  <owl:Periode>2012-2017</owl:Periode>
+  <owl:Asal>Rostock, Jerman</owl:Asal>
+  <owl:Partai>Independen</owl:Partai>
+  <owl:Ibu_negara>Gerhild Gauck</owl:Ibu_negara>
+  <owl:Wafat> - </owl:Wafat>
+  <foaf:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:2012-06-05_Bundespraesident_Joachim_Gauck_Berlin.jpg</foaf:img>
+</rdf:Description>
+</rdf:RDF>
